@@ -1,0 +1,26 @@
+Pre Install Requirment.
+
+1. Apache server,  PHP programing Language, MySQL (XAMPP),
+2. Node.js,
+3. Composer,
+
+How ot Install this softweare?
+
+1. Download This softwer,
+2. unzeep this folder,
+3. Open with code editor,
+4. Open termenal inside of Folder,
+4. Create Databases,
+4. Open C: folder\ .env,
+4. Change Database Structer (follwing video tutorial),
+5. Now write this Command-
+  (i)    composer update
+  (iii)  php artisan migrate:fresh --seed
+  (iii)  php artisan storage:link
+6. For Runnin with spark server. type this command
+  php artisan serve 
+6. open vrowser and type this url:
+  http://127.0.0.1:8000
+6. How to Run on Orginal Host click Link,
+7> How to run on Vartual host,
+
