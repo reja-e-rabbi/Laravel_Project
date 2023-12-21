@@ -28,6 +28,13 @@ How to Install this software?
 7. How to Run on Orginal Host click Link,
 7> How to run on a Virtual host,
 
+## Site Link
+Front End: http://sitename.com
+Back End: http://sitename.com/login
+
+Primary Login:
+email - admin@gmail.com
+password - 1122334455
 
 
 ## License
