@@ -6,6 +6,9 @@ ProMan is a portfolio website project designed to showcase your skills, projects
 
 (Apache server,  PHP programming Language, MySQL) or XAMPP, Node.js, Composer,
 
+## Watch YouTube Tutorials
+[How to Install](https://youtu.be/srql2k8Flb0)**
+
 ## How to Install this software?
 
 How to Install this software?
