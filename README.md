@@ -22,7 +22,7 @@ How to Install this software?
 4. Change Database Structer (follwing video tutorial),
 5. Now write this Command-
   (i)    Composer update
-  (iii)  php artisan migrate: fresh --seed
+  (iii)  php artisan migrate:fresh --seed
   (iii)  php artisan storage: link
 6. For Runnin with the spark server. type this command
   php artisan serve 
